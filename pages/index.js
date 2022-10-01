@@ -24,6 +24,7 @@ export default function Home() {
         <title>Kushan Gayantha</title>
         <meta name="description" content="Come work with me,i will give my best for your work" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name='keywords' content='nextjs,react,tailwindcss,blog'/>
       </Head>
 
       <main className=''>
