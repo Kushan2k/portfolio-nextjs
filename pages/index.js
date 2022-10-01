@@ -5,6 +5,7 @@ import About from '../Components/About'
 import Service from '../Components/Service'
 import Projects from '../Components/Projects'
 import { useState } from 'react'
+import Footer from '../Components/Footer'
 
 export default function Home() {
 
@@ -32,11 +33,11 @@ export default function Home() {
             <About />
             <Service/>
           </div>
-          <div className="w-screen p-10" id='projects'>
+          <div className="w-screen p-1" id='projects'>
             <Projects/>
           </div>
           
-
+          <Footer/>
         </section>
       </main>
     </div>

@@ -12,7 +12,12 @@ export default function Service() {
       </p>
       <ul className=" list-disc pl-10 text-gray-400">
         <li>Web Application Development</li>
-        <li>Web Application Development</li>
+        <li>Database Design and Development</li>
+        <li>Machine Learning</li>
+        <li>Android Development</li>
+        <li>API Development</li>
+        <li>Artificial Inteligence</li>
+        <li>UI/UX Design</li>
         
       </ul>
       

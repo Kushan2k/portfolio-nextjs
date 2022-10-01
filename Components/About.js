@@ -5,7 +5,7 @@ import {
   AiFillGithub
 } from 'react-icons/ai'
 
-import img from '../public/20220520_183331.jpg'
+import img from '../public/dp5.jpg'
 
 
 export default function About() {
@@ -28,8 +28,8 @@ export default function About() {
           <AiFillTwitterCircle className='cursor-pointer' style={{ color: '#1DA1F2' }} />
         </a>
       </div>
-      <div className='mt-10 overflow-hidden w-80 h-80 relative place-self-center rounded-full bg-gradient-to-b from-teal-500'>
-        <Image src={''} alt='Me'  />
+      <div className='items-center mt-10 overflow-hidden w-80 h-80 relative place-self-center rounded-full bg-gradient-to-b from-teal-500'>
+        <Image src={img} alt='Me' layout='fill' style={{objectFit:'contain'}}  />
       </div>
       
     </div>
