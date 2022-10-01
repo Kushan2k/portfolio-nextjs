@@ -3,7 +3,7 @@ import {BsFillMoonStarsFill} from 'react-icons/bs'
 
 export default function Navbar({setcolor}) {
   return (
-    <nav className='p-1.5 bg-gray-100 items-center flex h-16  justify-between mb-10'>
+    <nav className='p-1.5 bg-gray-100 items-center flex h-16 px-4 justify-between mb-10'>
       <h1 className='invisible sm:visible text-xl text-center w-2/4'>Welcome</h1>
       <ul className=' flex flex-row justify-evenly h-full items-center gap-10'>
         <li className=' mx-3'>

@@ -27,13 +27,13 @@ export default function Home() {
       </Head>
 
       <main className=''>
-        <section className=' bg-white  min-h-screen'>
+        <section className=' bg-white overflow-hidden'>
           <Navbar setcolor={ setColorTheme} />
           <div className=' w-screen p-10'>
             <About />
             <Service/>
           </div>
-          <div className="w-screen p-1" id='projects'>
+          <div className="p-1" id='projects'>
             <Projects/>
           </div>
           

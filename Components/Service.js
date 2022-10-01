@@ -2,7 +2,7 @@
 
 export default function Service() {
   return (
-    <div>
+    <div className="">
       <h1 className="text-gray-700 pb-2 text-justify text-xl font-medium border-b-4">
         My Services
       </h1>
