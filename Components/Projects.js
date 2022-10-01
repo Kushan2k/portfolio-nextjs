@@ -20,7 +20,7 @@ export default function Projects() {
     <div className="flex flex-wrap justify-around">
       {
         images.map((img, id) => {
-          console.log(img)
+          
           return (
             <div key={id} className='m-3 border-4 w-screen shadow-md p-5 hover:cursor-pointer  md:w-2/6'  >
               <Image  src={img} layout='responsive' alt={id} className=' hover:scale-125' />
