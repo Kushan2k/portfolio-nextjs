@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import style from '../styles/Home.module.css'
 
 import p1 from '../public/p1.jpg'
 import p2 from '../public/p2.jpg'
@@ -16,8 +15,11 @@ export default function Projects() {
 
     
   ]
+
   return (
     <div className="flex flex-wrap justify-around">
+
+      
       {
         images.map((img, id) => {
           

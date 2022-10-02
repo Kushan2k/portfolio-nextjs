@@ -29,7 +29,7 @@ export default function Home() {
 
       <main className=''>
         <section className=' bg-white overflow-hidden'>
-          <Navbar setcolor={ setColorTheme} />
+          {/* <Navbar setcolor={ setColorTheme} /> */}
           <div className=' w-screen p-10'>
             <About />
             <Service/>
@@ -37,8 +37,6 @@ export default function Home() {
           <div className="p-1" id='projects'>
             <Projects/>
           </div>
-          
-          <Footer/>
         </section>
       </main>
     </div>

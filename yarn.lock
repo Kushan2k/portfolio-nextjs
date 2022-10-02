@@ -56,6 +56,13 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
+"@madzadev/image-slider@^1.0.5", "@madzadev/image-slider@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@madzadev/image-slider/-/image-slider-1.0.9.tgz#c0a62f8f0412ffd4e198dcca22feb3724dd823d4"
+  integrity sha512-OtzVq2wXXTVq5VY8LZo2g/xBL0Vmgvg5XfzONMR0TSxzRoJTBfgksTOUQ8U+SDgT02Fw3pb/gt7dm5Nv6ez5Ew==
+  dependencies:
+    "@madzadev/image-slider" "^1.0.5"
+
 "@next/env@12.3.1":
   version "12.3.1"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-12.3.1.tgz#18266bd92de3b4aa4037b1927aa59e6f11879260"
