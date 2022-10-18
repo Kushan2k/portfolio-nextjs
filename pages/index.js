@@ -4,18 +4,11 @@ import Navbar from '../Components/Navbar'
 import About from '../Components/About'
 import Service from '../Components/Service'
 import Projects from '../Components/Projects'
-import { useState } from 'react'
-import Footer from '../Components/Footer'
+
 
 export default function Home() {
 
-  const [color, setColor] = useState(false)
   
-  function setColorTheme() {
-    setColor(!color)
-  }
-
-  console.log(color)
 
   return (
     <div className={styles.container}>

@@ -1,8 +1,10 @@
 
 
-function Project() {
+function Project({post}) {
   return (
-    <div>Project</div>
+    <div className=" p-4">
+      post
+    </div>
   )
 }
 
