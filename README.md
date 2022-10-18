@@ -35,4 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-![alt text](https://assets1.ignimgs.com/2017/10/04/arrow-ver25-xlg-1507131473261.jpg)
+![alt text](https://drive.google.com/file/d/0B4MOn9I_-QwBcEtkdzZtQUtEbDg/view?usp=sharing&resourcekey=0-czHZOKaoZw2hthlXZIn3QQ)
